@@ -1,2 +1,2 @@
 # Html Website
- Photography websute
+ Photography website
